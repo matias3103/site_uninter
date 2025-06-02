@@ -1,0 +1,51 @@
+body{
+    background-color: #f0f0f0;
+}
+
+h1{
+    text-align: center;
+    color: darkcyan;
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+ul li{
+    margin-bottom: 15px;
+}
+
+img{
+    width: 800px;
+    height: auto;
+    border-radius: 30px;
+    display: block
+}
+
+table img{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+a:hover{
+    color: red;
+}
+
+button{
+    padding: 7px 17px;
+    font-size: 13px;
+    font-weight:bold;
+}
